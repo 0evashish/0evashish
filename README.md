@@ -13,16 +13,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="42px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="42px" src="https://image.flaticon.com/icons/png/512/2111/2111499.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Reddit" width="42px" src="https://image.flaticon.com/icons/png/512/2111/2111589.png" />][reddit]
+[<img align="left" alt="codeSTACKr | YouTube" width="42px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" />][youtube]
 
-<br />
-
-----
 
 </details>
 
 [twitter]: https://twitter.com/Dexashish
 [youtube]: https://www.youtube.com/channel/UC-PsRgaB8FlKrJjI4Wy_8ZQ
 [linkedin]: https://linkedin.com/in/dexashish
+[reddit]: https://www.reddit.com/user/0avortex/
