@@ -6,10 +6,8 @@
 - I’m looking to collaborate on any new ideas that you think would be worth my time.
 - 2021 Goals: Excel in Basics.
 - Fun fact: Hello world wasn't my first line of code.
----
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-novatorem-0evashish.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/vortexgamar?si=kVTAsw_-TjCiMgn87q5_gA)
+---
 
 ### Connect with me:
 
