@@ -2,9 +2,9 @@
 ---
 - I'm a Student and an Aspiring Learner.
 - Still trying to find more about my passions.
-- Currently learning Unreal Engine, Python, and C++.(Doing CS50 and Python 6.0001)
+- Currently learning 
 - I’m looking to collaborate on any new ideas that you think would be worth my time.
-- 2021 Goals: Excel in Basics.
+- Goals: Consistency.
 - Fun fact: Hello world wasn't my first line of code.
 
 ---
