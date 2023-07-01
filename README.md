@@ -3,7 +3,7 @@
 </div>
 
 ## About me
-I am currently a Final year student pursuing B.Tech at MNIT, Jaipur. Aspiring to be a opensource contriubter as well a Full-Stack developer. 
+I am currently a Final year student pursuing B.Tech at MNIT, Jaipur. Aspiring to be an opensource contriubter as well a Full-Stack developer. 
 I has a peculiar interest in technology and Space since I was little, and This interest has helped me develop a very good technological mindset, and given me the curiosity to learn more. 
 
 ## Skillset
@@ -24,15 +24,9 @@ I has a peculiar interest in technology and Space since I was little, and This i
 - Ofcourse Unlock the secret to the UNIVERSE.
 
 ## Reach me 
-[![Github]([https://img.shields.io/github/followers/sarthakbh321?label=Follow&style=social](https://github.com/0evashish/social-icons/blob/master/PNG/White/Github_white.png))](https://github.com/0evashish)
-[![Instagram]([https://img.shields.io/badge/-@sarthak_bharadwaj-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sarthak_bharadwaj_/](https://github.com/0evashish/social-icons/blob/master/PNG/White/Gmail_white.png))](https://www.instagram.com/dexashish)
-[![Linkedin](https://github.com/0evashish/social-icons/blob/master/PNG/White/LinkedIN_white.png)](https://www.linkedin.com/in/dexashish) {:height="50%" width="50%"}
-[![Mail](https://github.com/0evashish/social-icons/blob/master/PNG/White/Gmail_white.png=100x100)](mailto:devashishbadariya@gmail.com)
 
+<a href="https://twitter.com/dexashish"><img src="https://github.com/0evashish/social-icons/blob/master/PNG/White/Twitter_white.png" width="200" height="200"></img></a>
+<a href="mailto:devashishbadariya@gmail.com"><img src="https://github.com/0evashish/social-icons/blob/master/PNG/White/Gmail_white.png"></img></a>
+<a href="https://www.instagram.com/dexashish"><img src="https://github.com/0evashish/social-icons/blob/master/PNG/White/Instagram_white.png"></img></a>
+<a href="https://www.linkedin.com/in/dexashish"><img src="https://github.com/0evashish/social-icons/blob/master/PNG/White/LinkedIN_white.png"></img></a>
 
-### Interesting statts
-
-[twitter]: https://twitter.com/Dexashish
-[youtube]: https://www.youtube.com/channel/UC-PsRgaB8FlKrJjI4Wy_8ZQ
-[linkedin]: https://linkedin.com/in/dexashish
-[reddit]: https://www.reddit.com/user/0avortex/
