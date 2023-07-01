@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/0evashish/images/blob/main/Add%20a%20heading.png" width ="150" />
+	<img src="https://github.com/0evashish/images/blob/main/Add%20a%20heading.png" width ="450" />
 </div>
 ## About me
 I am currently a Final year student pursuing B.Tech at MNIT, Jaipur.
