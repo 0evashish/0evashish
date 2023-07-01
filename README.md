@@ -2,7 +2,7 @@
 # Welcome to my github! 👋
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/Sarthakbh321/sarthakbh321/master/intro.gif">
+	<img src="https://github.com/0evashish/images/blob/main/Add%20a%20heading.png">
 </div>
 
 ## About me :mortar_board:
