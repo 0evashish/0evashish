@@ -10,7 +10,7 @@ I has a peculiar interest in technology and Space since I was little, and This i
 - **Programming and Problem Solving**
 	- C++/C
 	- Inrtroductory JAVA and Python
-- ** Development**
+- **Development**
 	- HTML, CSS and Javascript
 	- Tailwind >>
 	- React with Redux
@@ -25,8 +25,8 @@ I has a peculiar interest in technology and Space since I was little, and This i
 
 ## Reach me 
 
-<a href="https://twitter.com/dexashish"><img src="https://github.com/0evashish/social-icons/blob/master/PNG/White/Twitter_white.png" width="200" height="200"></img></a>
-<a href="mailto:devashishbadariya@gmail.com"><img src="https://github.com/0evashish/social-icons/blob/master/PNG/White/Gmail_white.png"></img></a>
-<a href="https://www.instagram.com/dexashish"><img src="https://github.com/0evashish/social-icons/blob/master/PNG/White/Instagram_white.png"></img></a>
-<a href="https://www.linkedin.com/in/dexashish"><img src="https://github.com/0evashish/social-icons/blob/master/PNG/White/LinkedIN_white.png"></img></a>
+<a href="https://twitter.com/dexashish"><img src="https://github.com/0evashish/social-icons/blob/master/PNG/White/Twitter_white.png" width="60" height="60"></img></a>
+<a href="mailto:devashishbadariya@gmail.com"><img src="https://github.com/0evashish/social-icons/blob/master/PNG/White/Gmail_white.png" width="60" height="60"></img></a>
+<a href="https://www.instagram.com/dexashish"><img src="https://github.com/0evashish/social-icons/blob/master/PNG/White/Instagram_white.png" width="60" height="60"></img></a>
+<a href="https://www.linkedin.com/in/dexashish"><img src="https://github.com/0evashish/social-icons/blob/master/PNG/White/LinkedIN_white.png" width="60" height="60"></img></a>
 
