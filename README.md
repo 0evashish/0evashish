@@ -1,9 +1,6 @@
-### Devashish Here
-# Welcome to my github! 👋
 <div align="center">
-	<img src="https://github.com/0evashish/images/blob/main/Add%20a%20heading.png">
+	<img src="https://github.com/0evashish/images/blob/main/Add%20a%20heading.png" width ="150" />
 </div>
-
 ## About me
 I am currently a Final year student pursuing B.Tech at MNIT, Jaipur.
 From very early on in my life i was peculiar interest in technology, Space and This interest has helped me develop a very good technological mindset, and given me the curiosity to learn more.
