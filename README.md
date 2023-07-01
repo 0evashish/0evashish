@@ -8,7 +8,7 @@ I has a peculiar interest in technology and Space since I was little, and This i
 
 ## Skillset
 - **Programming and Problem Solving**
-	- C++/C
+	- C++/ C
 	- Inrtroductory JAVA and Python
 - **Development**
 	- HTML, CSS and Javascript
