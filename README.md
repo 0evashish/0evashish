@@ -3,8 +3,8 @@
 </div>
 
 ## About me
-I am currently a Final year student pursuing B.Tech at MNIT, Jaipur. Aspiring to be an opensource contriubter as well a Full-Stack developer. 
-I has a peculiar interest in technology and Space since I was little, and This interest has helped me develop a very good technological mindset, and given me the curiosity to learn more. 
+I am currently a Final year student pursuing Computer Science major at MNIT, Jaipur. Aspiring to be an opensource contriubter as well a Full-Stack developer. 
+I had a peculiar interest in technology and Space since I was little, and This interest has helped me develop a very good technological mindset, and given me the curiosity to learn more. 
 
 ## Skillset
 - **Programming and Problem Solving**
