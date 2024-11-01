@@ -27,6 +27,6 @@ I had a peculiar interest in technology and Space since I was little, and This i
 
 <a href="https://twitter.com/dexashish"><img src="https://github.com/0evashish/social-icons/blob/master/PNG/White/Twitter_white.png" width="60" height="60"></img></a>
 <a href="mailto:devashishbadariya@gmail.com"><img src="https://github.com/0evashish/social-icons/blob/master/PNG/White/Gmail_white.png" width="60" height="60"></img></a>
-<a href="https://www.instagram.com/dexashish"><img src="https://github.com/0evashish/social-icons/blob/master/PNG/White/Instagram_white.png" width="60" height="60"></img></a>
+<a href="https://www.instagram.com/0evashish"><img src="https://github.com/0evashish/social-icons/blob/master/PNG/White/Instagram_white.png" width="60" height="60"></img></a>
 <a href="https://www.linkedin.com/in/dexashish"><img src="https://github.com/0evashish/social-icons/blob/master/PNG/White/LinkedIN_white.png" width="60" height="60"></img></a>
 
